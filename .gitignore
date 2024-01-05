@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+npm-debug.log
+yarn-error.log
+
+# Optional: Uncomment the following line if you're using NPM
+# package-lock.json
+
+# Optional: Uncomment the following line if you're using Yarn
+# yarn.lock
+
+# VS Code settings
+.vscode/
+
+# Uncomment the following lines if you have a specific Node.js version
+# .nvmrc
+# .nvm/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.test
+.env.production
+.env.development
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: Uncomment the following line if you use TypeScript
+# tsconfig*.json
+
+# Optional: Uncomment the following line if you use Babel
+# .babelrc
