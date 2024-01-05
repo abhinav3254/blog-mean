@@ -23,6 +23,8 @@
 .forgot-password {
     color: blue;
     text-decoration: underline;
+    position: relative;
+    margin-left: 0px;
 }
 
 .forgot-password:hover {
