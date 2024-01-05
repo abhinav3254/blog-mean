@@ -1,0 +1,30 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 100vh;
+}
+
+.left {
+    width: 50%;
+    margin: auto 4rem;
+}
+
+.right {
+    width: 50%;
+    margin: auto 4rem;
+}
+
+.form-select {
+    margin: 15px 0px;
+}
+
+.login {
+    color: blue;
+    text-decoration: underline;
+}
+
+.login:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
